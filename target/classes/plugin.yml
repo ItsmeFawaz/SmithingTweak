@@ -1,0 +1,5 @@
+name: SmithingTweak
+author: Fawaz
+main: me.bottleofglass.SmithingTweak.Main
+version: 1.0.0
+api-version: 1.16
